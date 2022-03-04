@@ -20,10 +20,11 @@ namespace CS_oppgaver
             {
                 case "1":
                     Task1.Run(args);
-                break;
+                    break;
+                case "2":
+                    Task2.Run(args);
+                    break;
             }
-
-
         }
 
         static void WriteTasks()

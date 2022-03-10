@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CS-oppgaver": {
+      "commandName": "Project",
+      "commandLineArgs": "dette er et argument"
+    }
+  }
+}

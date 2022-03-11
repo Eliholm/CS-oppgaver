@@ -42,6 +42,9 @@ namespace CS_oppgaver
                 case "8":
                     Task8.Run(args);
                     break;
+                case "9":
+                    Task9.Run(args);
+                    break;
             }
         }
 
@@ -55,6 +58,7 @@ namespace CS_oppgaver
             Console.WriteLine("6: Task 6");
             Console.WriteLine("7: Task 7");
             Console.WriteLine("8: Task 8");
+            Console.WriteLine("9: Task 9");
         }
     }
 }
